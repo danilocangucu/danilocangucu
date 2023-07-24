@@ -2,6 +2,6 @@ Oi! 🤓
 
 I'm Danilo. Student at Grit:Lab in Åland Islands.
 
-JavaScript, Go, HTML/HTML5, CSS, SQL and SQLite.
+HTML, CSS, Go, React, JavaScript, Java, Git, SQL, GraphQL, AWS and Bash scripting.
 
 I speak: 🇧🇷 🇨🇴 🇬🇧 🇸🇪
